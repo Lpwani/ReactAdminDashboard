@@ -2,4 +2,4 @@
 ![Shoppy](https://i.ibb.co/W6g39w3/image.png)
 
 ## Introduction
-we are going to build and deploy a an admin dashboard app using React.js and Syncfusion.
+we are going to build and deploy a admin dashboard app using React.js and Syncfusion.
